@@ -22,7 +22,7 @@ public class Main {
 
             tempNumber /=10;
         }
-        System.out.print(total);
+        System.out.print("Girilen sayının basamakları toplamı : " + total);
 
 
 
